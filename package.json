@@ -1,0 +1,19 @@
+{
+  "name": "muchneeded",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanchiattri/muchNeeded.git"
+  },
+  "author": "Pragati attri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanchiattri/muchNeeded/issues"
+  },
+  "homepage": "https://github.com/kanchiattri/muchNeeded#readme",
+  "description": ""
+}
